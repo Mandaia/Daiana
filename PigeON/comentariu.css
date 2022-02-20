@@ -1,0 +1,17 @@
+	
+	button[type=submit]{
+	color: white;
+	border: none;
+	background-color: purple;
+	padding: 14px;
+	border-radius: 10px;
+	font-family: consolas;
+	font-weight: bold;
+	}
+	
+	textarea{
+		margin-left: 400px;
+		margin-top: 150px;
+	}
+
+	

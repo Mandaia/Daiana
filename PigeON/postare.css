@@ -1,0 +1,79 @@
+#box{
+	margin-top: 0px;
+	width: 700px;
+	height: 500px;
+	border-left: 2px solid #f2f2f2;
+	border-right: 2px solid #f2f2f2;
+}
+
+#postari{
+	width: 600px;
+	height: 300px;
+	border: 2px solid pink;
+	margin-top: 100px;
+	position: absolute;
+	margin-left: 50px;
+	border-radius: 10px;
+}
+
+#icon{
+	width: 25px;
+}
+
+#butoane{
+	padding-top: 415px;
+	margin-left: -390px;
+}
+
+#cerc{
+	position: absolute;
+	height: 50px;
+	width: 50px;
+	border-radius: 100px;
+	background-color: #f2f2f2;
+	margin-top: 37px;
+	margin-left: 65px;
+}
+
+#pozaut{
+	position: absolute;
+	height: 30px;
+	width: 30px;
+	border-radius: 100px;
+	background-color: #f2f2f2;
+	margin-top: 22px;
+	margin-left: 50px;
+}
+
+.nd {
+	margin-left: 130px;
+	margin-top: 40px;
+	position: absolute;
+}
+
+#descriere{
+	color: pink;
+	margin-top: 395px;
+	margin-left: 60px;
+	position: absolute;
+}
+
+#post{
+	color: white;
+	border: none;
+  padding: 10px;
+	background-color: purple;
+	border-radius: 10px;
+	font-family: consolas;
+	font-weight: bold;
+	margin-left: 84%;
+  margin-top: -30px;
+}
+
+#pb{
+	position: absolute;
+	height: 50px;
+	width: 50px;
+	border-radius: 100px;
+	margin-left: -25px;
+}
